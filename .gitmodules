@@ -1,0 +1,3 @@
+[submodule "Slic3r"]
+	path = Slic3r
+	url = git@github.com:Zip-o-mat/Slic3r.git

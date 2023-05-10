@@ -37,3 +37,4 @@ inc/
 
 __pycache__/
 input.gcode
+output.gcode

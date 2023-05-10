@@ -1,14 +1,28 @@
 # Tests
 
+## Default settings
+
+- Material: PLA
+- Material Brand: 3DEA
+- Printer: Anycubic i3 Mega
+- Nozzle diameter: 0.4mm
+- Filament diameter: 1.75mm
+
 ## Test Set A
 
-### A Settings
+### Purpose
 
-- Rise 1mm
-- 40% Infill
-- 4 Top Layers
-- 0.3mm Layer height
-- 200c temperature
+Test to find the optimal cross-over distance for ironing.
+
+### Settings
+
+- Rise: 1mm
+- Infill: 40%
+- Top Layers: 3
+- Layer height: 0.3mm
+- Temperature: 200c
+- Model set: constant slope (1mm model)
+- Material Colour: Black
 
 | name | type       | cross-over (mm) | Photo | Note |
 | ---- | ---------- | --------------- | ----- | ---- |
@@ -23,14 +37,18 @@
 
 ## Test Set B
 
-### B Settings
+### Purpose
 
-- Rise 1mm
-- 40% Infill
-- 4 Top Layers
-- 0.3mm Layer height
-- 200c temperature
-- cross-over 0.05mm
+Show case set
+
+### Settings
+
+- Infill: 40%
+- Top Layers: 3
+- Layer height: 0.3mm
+- Temperature: 200c
+- Cross-over: 0.05mm
+- Model set: constant slope
 
 | name | type       | Rise (mm) | Photo | Note |
 | ---- | ---------- | --------- | ----- | ---- |

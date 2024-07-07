@@ -1,8 +1,16 @@
-# Non-planar-ironing
+# Non-Planar Ironing
+
+## A novel technique for Smoother Surface Finishes in FDM printing
+
+![./ironing.jpg](./ironing.jpg)
+
+- Left - Standard printing
+- Middle - Best Previous Technique
+- Right - Our technique
 
 ## Run Non-planar Slic3r
 
-It can be found here (or as a sub repository):
+This is based off non-planar slic3r which can be found here (or as a sub-repository):
 [https://github.com/Zip-o-mat/Slic3r](https://github.com/Zip-o-mat/Slic3r)
 
 ### Slic3r settings
